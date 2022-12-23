@@ -1,6 +1,6 @@
 title = "Open Meet"
 # The URL the site will be built for
-base_url = "https://openmeetspace.github.io/init"
+base_url = "https://openmeet.space"
 theme = "d3c3nt"
 
 # Whether to automatically compile all Sass files in the sass directory
