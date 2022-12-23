@@ -1,8 +1,15 @@
-# Ideas
++++
+title = "Home"
+template = "section.html"
++++
+
+# OpenMeet Space
+
+A public documentation of initiation consisting of the plans and progress of OpenMeetSpace.
 
 This document has the rough ideas and plans put forth to make OpenMeetSpace a reality. The final expected outcome being an "open" network of people in various industries with zero hierarchies with the opportunity to collaborate with each other. 
 
-## Philosophy
+# Philosophy
 
 Everything OpenMeetSpace do will be "open-source" -- ideas, plans, and the tech used. This is an initiative to make collaborations and networking easy via meetups and online communities.
 
@@ -10,9 +17,9 @@ Everything OpenMeetSpace do will be "open-source" -- ideas, plans, and the tech 
 > 
 > This is mainly an open web platform to help communities organize meetups, find supporting venues, find target audience, and collaborate mainly revolving around small meetups.
 
-## Outline
+# Outline
 
-OpenMeet.space is going to be an open platform with two main categories:
+OpenMeet.space is going to be an open platform with three main categories:
 
 ---
 
